@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Santander
-- 👀 I am currently a computer science senior at California State Polytechnic University, Pomona 
+- 👀 I am new computer science gradudate from California State Polytechnic University, Pomona 
 - 🌱 I’m currently learning functional programming paradigms. 
 - 📫 How to reach me through email at luissantanderdev@gmail.com
 
