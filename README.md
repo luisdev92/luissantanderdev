@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luis Santander
+- 👋 Hi, I’m Luis Santander Welcome to My GitHub Profile
 - 👀 I am new computer science gradudate from California State Polytechnic University, Pomona 
 - 🌱 I’m currently learning functional programming paradigms. 
 - 📫 How to reach me through email at luissantanderdev@gmail.com
